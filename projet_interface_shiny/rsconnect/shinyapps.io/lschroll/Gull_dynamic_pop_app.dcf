@@ -1,0 +1,12 @@
+name: Gull_dynamic_pop_app
+title: Gull_dynamic_pop_app
+username: lschroll
+account: lschroll
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10837279
+bundleId: 8075708
+url: https://lschroll.shinyapps.io/Gull_dynamic_pop_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
